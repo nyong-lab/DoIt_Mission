@@ -1,7 +1,7 @@
 # DoIt Android [2020]
 > :lock: 책에 있는 미션 풀이!  
 > :key: 해답 참고하지 않고 직접 해결하기  
-> :key: 미션별 폴더 업로드, README.md에 요구사항 정리  
+> :key: 미션별 소스코드 정리(.md), README.md에 요구사항 정리  
 
 ## Chapter 05, Fragment
 
