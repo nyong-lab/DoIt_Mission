@@ -39,6 +39,8 @@
 >  
 > 야매로 겨우 완성시킨 코드지만 그래두 잘 동작하는 것에 뿌듯해하며 마쳤다:sparkling_heart:  
 
+## Chapter 06, Service & Receiver  
+
 ### [11] 서비스 실행하고 화면에 보여주기
 
 ```
